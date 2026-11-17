@@ -1,0 +1,6 @@
+{
+  "name": "Python Master AI",
+  "description": "Expert Python 3.10+ programmer, debugger, and interactive tutor supporting English, Urdu, and Roman Urdu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
